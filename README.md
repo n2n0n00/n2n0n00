@@ -32,17 +32,17 @@ My goal is to create efficient and visually appealing web solutions, employing a
 I specialize in building end-to-end solutions, from designing and implementing secure and efficient Smart Contracts to crafting seamless and dynamic web applications. 
 My projects reflect a commitment to clean code, responsiveness, and user-centric design.
 
-## 🔭 I’m currently working on ...
+## 🔭 I’m currently working on 
   - Web3 Real Estate Application
   - Web3 Film and Series Renting Application
   - Gaming Collaboration
   - Metaverse Secret Project...🤫🤫🤫
 
-## 🌱 I’m currently learning ...
+## 🌱 I’m currently learning 
   - ThreeJS
   - Blender
     
-## 💬 Ask me about ...
+## 💬 Ask me about 
   - Working on a project you want to build.
 
 ## 📫 How to reach me: ...
