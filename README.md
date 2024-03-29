@@ -1,7 +1,7 @@
 ### Hello, I'm Athena 👋
 
-I'm a passionate Full-Stack Web Developer with a keen interest in blockchain technologies. 
-My goal is to create efficient and visually appealing web solutions, employing a range of technologies to bring ideas to life.
+I'm a passionate Full-Stack Web Developer, but love blockchain technology and web3 way too much. 
+My goal is to create efficient and decentralised web solutions.
 
 ## 💻 Skills
 
@@ -29,8 +29,7 @@ My goal is to create efficient and visually appealing web solutions, employing a
   
 ## 🚀 What I Do
 
-I specialize in building end-to-end solutions, from designing and implementing secure and efficient Smart Contracts to crafting seamless and dynamic web applications. 
-My projects reflect a commitment to clean code, responsiveness, and user-centric design.
+I design and build things for the web.
 
 ## 🔭 I’m currently working on 
   - Web3 Real Estate Application
