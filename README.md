@@ -30,18 +30,9 @@ I'm a passionate Full-Stack Web Developer, but love blockchain technology and we
 
 I design and build things for the web.
 
-## 🔭 I’m currently working on 
-  - Web3 Real Estate Application
-  - Web3 Film and Series Renting Application
-  - Gaming Collaboration
-  - Metaverse Secret Project...🤫🤫🤫
-
 ## 🌱 I’m currently learning 
   - ThreeJS
   - Blender
-    
-## 💬 Ask me about 
-  - Working on a project you want to build.
 
 ## 📫 How to reach me: ...
   - Through email at athena.tz.dev@gmail.com
