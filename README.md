@@ -1,7 +1,6 @@
 ### Hello, I'm Athena 👋
 
 I'm a passionate Full-Stack Web Developer, but love blockchain technology and web3. 
-My goal is to create efficient solutions.
 
 ## 💻 Skills
 
