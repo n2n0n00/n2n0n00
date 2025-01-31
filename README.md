@@ -1,6 +1,6 @@
 ### Hello, I'm Athena 👋
 
-I'm a passionate Full-Stack Web Developer, but love blockchain technology and web3. 
+I'm a passionate Full-Stack Web and App Developer.
 
 ## 💻 Skills
 
@@ -11,6 +11,8 @@ I'm a passionate Full-Stack Web Developer, but love blockchain technology and we
 - **Web Development:**
   - React.js
   - Next.js
+  - Expo
+  - React Native
   - JavaScript (ES6+)
   - TypeScript
   
