@@ -1,6 +1,6 @@
 ### Hello, I'm Athena 👋
 
-I'm a passionate Full-Stack Web and App Developer.
+I'm an engineer, building Faze at fazeapp.com
 
 ## 💻 Skills
 
